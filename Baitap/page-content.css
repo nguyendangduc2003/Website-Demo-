@@ -1,0 +1,13 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+    margin-left: 20px;
+}
+.p1{
+font-size: 20px;
+font-style: italic;
+}
+.p2{
+    font-size: 28px;
+}

@@ -1,0 +1,46 @@
+.body {
+    margin:0px;
+    padding: 0px;
+    background: #CCCCCC;
+}
+.ul {
+background-color: #444;
+padding: 0px;
+margin: 0px;
+list-style: none;
+display: flex;
+justify-content: center;
+}
+.li {
+    font-size: 24px;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+    display: inline-block;
+}
+.content1 {
+    color: black;
+    font-size: 40px;
+}
+div a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.p1{
+    font-size: 20px;
+    font-style: italic;
+    }
+    .p2{
+        font-size: 28px;
+    }
+    .bold {
+        text-align: center;
+        font-weight: bold;
+    }
+    .results {
+        width: 400px;
+        text-align: right;
+        padding-right: 5px;
+    }
+    table, th, td, tr {border: 1px solid #000000;}
+    
